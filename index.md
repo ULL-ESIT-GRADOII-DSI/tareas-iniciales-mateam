@@ -231,4 +231,4 @@ varias líneas
 
 [Página personal de prácticas](http://alu4543.github.io/)
 
-[Página de la práctica inicial](http://alu4543.github.io/DSI/Iniciales/)
+[Página de la práctica inicial](http://alu4543.github.io/tareas-iniciales-mateam/)
