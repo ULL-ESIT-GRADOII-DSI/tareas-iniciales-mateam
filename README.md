@@ -1,19 +1,38 @@
-## Tarea Inicial
+# ETSII ULL Grado de Informatica
+## DESARROLLO DE SISTEMAS INFORMÁTICOS 2015/2016
+### Práctica 1: Tareas Iniciales
 
-Configuración de las herramientas y tecnologías a utilizar en la asignatura desarrollo de sistemas informáticos.
+### Descripción de la Práctica
+* Configuración de las herramientas y tecnologías a utilizar en la asignatura Procesadores de Lenguajes.
 
-> NodeJS
+### Herramientas a instalar
+* NodeJS
+* Express
+* git
+* git Desktop
+* Express
+* Atom
+* GitHub
+* Cloud9
+* Markdown
 
-> Express
+### Enlaces
+#### Página personal de prácticas
 
-> Atom
+* [http://alu4543.github.io/](http://alu4543.github.io/)
 
-> GitHub
+#### Repositorio git de la práctica inicial
 
-> Cloud9
+* [https://github.com/alu4543/tareas-iniciales-mateam](https://github.com/alu4543/tareas-iniciales-mateam)
 
-> Markdown
+#### Despliegue de la práctica en Github
 
-[Página personal de prácticas](http://alu4543.github.io/)
+* [http://alu4543.github.io/tareas-iniciales-mateam/](http://alu4543.github.io/tareas-iniciales-mateam/)
 
-[Página de la práctica inicial](http://alu4543.github.io/DSI/Iniciales/)
+#### Repositorio git de la organización﻿ de la práctica inicial
+
+* [https://github.com/ULL-ESIT-GRADOII-PL/tareas-iniciales-mateam](https://github.com/ULL-ESIT-GRADOII-PL/tareas-iniciales-mateam)
+
+#### Despliegue de la práctica en Github de la organización
+
+* [http://ull-esit-gradoii-pl.github.io/tareas-iniciales-mateam/](http://ull-esit-gradoii-pl.github.io/tareas-iniciales-mateam/)
